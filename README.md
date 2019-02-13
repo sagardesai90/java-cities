@@ -44,7 +44,9 @@ Remember that each message must have a Text, priority, and whether it is secret 
 4. Write Repository interface
 5. Write SeedDatabase class
 6. Write Message class
-7. ...
+7. Write MessageListener class
+8. Bind the channels in the Application method
+9. Write the Controller(s)
 
 ## The data
 
