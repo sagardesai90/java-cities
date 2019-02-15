@@ -39,8 +39,8 @@ Remember that each message must have a Text, priority, and whether it is secret 
 
 ## Recommended Order
 1. Create a new project with 7 dependencies
-2. Add 2 Jackson dependencies __________ done
-3. Write Data class
+2. Add 2 Jackson dependencies 
+3. Write Data class  __________ done
 4. Write Repository interface
 5. Write SeedDatabase class
 6. Write Message class
