@@ -2,7 +2,7 @@
 
 # Introduction
 
-Different cities across the US have different median home prices and thus different affordability indexes. Below is a list of such to use in today's project. I have formatted the list so you can just copy and past the data into the project (assuming you set up the project with the correct names!).  Note that the lower the affordability index, the more affordability it is to live in that city.
+Different cities across the US have different median home prices and thus different affordability indexes. Below is a list of such to use in today's project. I have formatted the list so you can just copy and paste the data into the project (assuming you set up the project with the correct names!).  Note that the lower the affordability index, the more affordability it is to live in that city.
 
 # Instructions
 
@@ -39,7 +39,7 @@ Remember that each message must have a Text, priority, and whether it is secret 
 
 ## Recommended Order
 1. Create a new project with 7 dependencies
-2. Add 2 Jackson dependencies
+2. Add 2 Jackson dependencies __________ done
 3. Write Data class
 4. Write Repository interface
 5. Write SeedDatabase class
